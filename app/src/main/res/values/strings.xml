@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Contacts-android</string>
+    <string name="download_contacts_success">download contacts success</string>
+    <string name="download_contacts_failed">download contacts failed</string>
+    <string name="upload_contacts_success">upload contacts success</string>
+    <string name="bmob_key">fd9b5926dba29c211d4d8fabccf130f7</string>
+</resources>
